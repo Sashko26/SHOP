@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "image": "1.jpg",
+      "name": "Iphone 3gs",
+      "price": 50,
+      "article": "A1303",
+      "category": "Iphone"
+    },
+    {
+      "image": "2.jpg",
+      "name": "Iphone 4",
+      "price": 80,
+      "article": "A1332",
+      "category": "Iphone"
+    },
+    {
+      "image": "3.jpg",
+      "name": "Iphone 5s",
+      "price": 100,
+      "article": "A1453",
+      "category": "Iphone"
+    },
+    {
+      "image": "4.jpg",
+      "name": "Ipod touch 5",
+      "price": 700,
+      "article": "A1421",
+      "category": "Ipod"
+    },
+    {
+      "image": "5.jpg",
+      "name": "Ipod touch 4",
+      "price": 1000,
+      "article": "A1367",
+      "category": "Ipod"
+    },
+    {
+      "image": "6.jpg",
+      "name": "Ipod classic",
+      "price": 1300,
+      "article": "A1238",
+      "category": "Ipod"
+    },
+    {
+      "image": "7.jpg",
+      "name": "Iphone 6S",
+      "price": 200,
+      "article": "A1633",
+      "category": "Iphone"
+    },
+     {
+      "image": "8.jpg",
+      "name": "Iphone 7",
+      "price": 300,
+      "article": "A1660",
+      "category": "Iphone"
+    },
+     {
+      "image": "9.jpg",
+      "name": "Ipod touch 3",
+      "price": 30,
+      "article": "A1318",
+      "category": "Ipod"
+    }
+  ]
+}
