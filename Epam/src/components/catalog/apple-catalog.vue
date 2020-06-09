@@ -131,8 +131,7 @@
 <style lang="scss">
   .apple-catalog {
     &__list {
-      display: flex;
-      flex-wrap: wrap;
+      display: flex;     
       justify-content: space-between;
       align-items: center;
     }

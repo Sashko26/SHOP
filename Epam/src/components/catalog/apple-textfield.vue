@@ -1,11 +1,11 @@
 <template>
   <div class='apple-textfield'>
-    <label>{{label}}
+  
       <input type="text"
              :value="value"
              @input="input"
       >
-    </label>
+  
   </div>
 </template>
 
